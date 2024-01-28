@@ -46,3 +46,28 @@ La tercera parte tiene tres botones:
 Y la última y cuarta parte con el último texto:
 
 ![image](https://github.com/mmruano/MoragriegaRuanoA02/assets/146729468/308ba55a-4362-4fcf-8967-3196ffc25fb6)
+
+
+--------------------------------------------------
+
+EJERCICIO 02
+
+- Deberás de crear una clase en flutter que sea una plantilla de los botones, en la que le pases el argumento de
+- texto y sustituirlo por los 3 botones que tenemos → 2 puntos
+
+- Darle funcionalidad a los botones, cambios solo por consola → 2 puntos
+
+- Cambios por pantalla → 4 puntos.
+
+- README → 2 puntos.
+
+Se empieza creando una carpeta de widgets donde se pondrá el código del diseño del botón el cuál se utilizará
+para los tres botones y pondrá sus funciones:
+
+![image](https://github.com/mmruano/MoragriegaRuanoA02/assets/146729468/a8803d54-cd8d-4e4c-a2fb-3673f82b68f0)
+
+![image](https://github.com/mmruano/MoragriegaRuanoA02/assets/146729468/906faba9-1177-4061-8a14-20f214e0d694)
+
+Como se puede observar, dependiendo del texto del contenido del botón pasará una cosa u otra, dandole así funciones
+a los botones que a su vez se imprimirá por pantalla.
+
